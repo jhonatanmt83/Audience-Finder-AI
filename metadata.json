@@ -1,0 +1,5 @@
+{
+  "name": "Audience Finder AI",
+  "description": "An AI-powered tool to help event organizers identify nearby US states to target for their marketing campaigns based on a show's location.",
+  "requestFramePermissions": []
+}
